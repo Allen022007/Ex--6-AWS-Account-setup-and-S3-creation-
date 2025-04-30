@@ -1,4 +1,4 @@
-# Ex-1-AWS-Account-setup-and-S3-creation
+# Ex-2-AWS-Account-setup-and-S3-creation
 ~~~
 Name : W Allen Johnston Ozario
 reg.no : 21222411004
